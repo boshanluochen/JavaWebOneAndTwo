@@ -1,0 +1,25 @@
+body{
+	margin:2em;
+		background-color:#CCCCFF;
+}
+td{
+	font-family:"Times New Roman",Times,serif;
+	font-size:14px;
+		font-wight:bold;
+}
+input{
+	font-size:9px;
+	color:#003399;
+	font-family:ËÎÌו;
+	border:'1px''dashed''#999999';
+	background:#EEEEEE;
+}
+.td1{
+	font-size:12px;
+	font-familty:÷ÚÌו;
+}
+.botton1{
+	background:#FFFFFF;
+	font-weight:bold;
+	width:50px;
+}
